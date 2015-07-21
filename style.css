@@ -21,7 +21,7 @@ input, select, form, ul {
 }
 
 .searchForm{
-	width: 500px;
+	width: 450px; /*I changed this from 500px so it wasnt ugly*/
 	margin:auto;
 	text-align: center;
 }
